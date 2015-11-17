@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Yli_Fulltext>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Yli_Fulltext>
+    </modules>
+</config> 
